@@ -1,2 +1,2 @@
 # FlashyBird
-A flappy bird clone made in flash with Adobe Animate
+A flappy bird clone programmed with ActionScript and made in flash with Adobe Animate
